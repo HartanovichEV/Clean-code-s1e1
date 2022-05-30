@@ -41,10 +41,15 @@
   margin: 0;
   padding: 0px;
 }
-.li-item, .title {
+.li-item, 
+.title {
   list-style: none;
 }
-.new-task__task-input, .task-input, .todo-task__checkbox, .completed-task__checkbox, .button {
+.new-task__task-input, 
+.task-input, 
+.todo-task__checkbox, 
+.completed-task__checkbox, 
+.button {
   outline: none;
 }
 .button {
